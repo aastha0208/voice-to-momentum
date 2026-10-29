@@ -1,0 +1,14 @@
+{
+  "name": "voice-to-momentum",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Configurable customer feedback triage with optional Jev integration",
+  "scripts": {
+    "dev": "node scripts/local-server.mjs",
+    "check": "node --check worker/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
