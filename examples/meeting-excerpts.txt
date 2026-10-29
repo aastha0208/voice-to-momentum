@@ -1,0 +1,9 @@
+Could you add scheduled exports? We spend two hours downloading reports every Friday.
+
+Please let us save reporting filter presets. We repeat the same setup every Monday.
+
+The integration returns error 500 on every request. Our checkout is blocked.
+
+Where can I download my invoice?
+
+Your onboarding support has been excellent. Thank you.
