@@ -1,0 +1,122 @@
+[
+  {
+    "id": "exports",
+    "source": "synthetic",
+    "excerpt": "Could you add scheduled exports? We spend two hours downloading reports every Friday.",
+    "expected": {
+      "category": "New request",
+      "product_area": "Reporting",
+      "impact": "Repeated effort",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "presets",
+    "source": "synthetic",
+    "excerpt": "Please let us save reporting filter presets. We repeat the same setup every Monday.",
+    "expected": {
+      "category": "Enhancement",
+      "product_area": "Reporting",
+      "impact": "Repeated effort",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "blocked",
+    "source": "synthetic",
+    "excerpt": "The integration returns error 500 on every request. Our checkout is blocked.",
+    "expected": {
+      "category": "Bug",
+      "product_area": "Integrations",
+      "impact": "Workflow blocked",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "billing",
+    "source": "synthetic",
+    "excerpt": "Where can I download my invoice?",
+    "expected": {
+      "category": "Question",
+      "product_area": "Billing",
+      "impact": "Not stated",
+      "followup_needed": false
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "praise",
+    "source": "synthetic",
+    "excerpt": "Your onboarding support has been excellent. Thank you.",
+    "expected": {
+      "category": "Praise",
+      "product_area": "Other / unclear",
+      "impact": "Not stated",
+      "followup_needed": false
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "unclear",
+    "source": "synthetic",
+    "excerpt": "It would be nice if this worked differently.",
+    "expected": {
+      "category": "Unclear",
+      "product_area": "Other / unclear",
+      "impact": "Not stated",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "complaint",
+    "source": "synthetic",
+    "excerpt": "I am disappointed that we repeat the same billing setup every week.",
+    "expected": {
+      "category": "Complaint",
+      "product_area": "Billing",
+      "impact": "Repeated effort",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "access",
+    "source": "synthetic",
+    "excerpt": "I receive an access denied error when opening the admin page. I cannot manage users.",
+    "expected": {
+      "category": "Bug",
+      "product_area": "Access & permissions",
+      "impact": "Workflow blocked",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "friction",
+    "source": "synthetic",
+    "excerpt": "Please increase the size of the reporting filter button; it is slightly awkward to click.",
+    "expected": {
+      "category": "Enhancement",
+      "product_area": "Reporting",
+      "impact": "Minor friction",
+      "followup_needed": false
+    },
+    "label_status": "provisional; human review required"
+  },
+  {
+    "id": "new",
+    "source": "synthetic",
+    "excerpt": "Could you add a new integration with our warehouse system?",
+    "expected": {
+      "category": "New request",
+      "product_area": "Integrations",
+      "impact": "Not stated",
+      "followup_needed": true
+    },
+    "label_status": "provisional; human review required"
+  }
+]
